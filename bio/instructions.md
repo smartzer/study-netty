@@ -72,4 +72,4 @@ accpetor thread只负责与client建立连接，worker thread用于处理每个t
 这实际上就是我们之前提到的UNIX 五种IO模型中的多路复用模型。
 ```
 
-项目由xiaoqinghua整理,来源于http://www.tianshouzhi.com/田守枝的技术blog
+项目由xiaoqinghua整理,来源于 http://www.tianshouzhi.com/      田守枝的技术blog
